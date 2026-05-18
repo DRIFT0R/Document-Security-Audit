@@ -9,6 +9,7 @@
 *Fictional company; for educational portfolio purposes only.*
 
 ![Raincity Roasters Logo](/raincity-roasters-logo.png)
+<img src="/raincity-roasters-logo.png" width="300" height="200">
 
 RainCity Roasters, LLC is a small Seattle-based business that roasts and sells specialty coffee and branded merchandise through both their physical café and an online Shopify storefront. The business operates from a single physical site, which serves as their roastery, office, café, and micro-warehouse. As RainCity Roasters' online presence has grown, so has their customer base — attracting coffee enthusiasts across the U.S. and internationally, including customers from the European Union.
 
